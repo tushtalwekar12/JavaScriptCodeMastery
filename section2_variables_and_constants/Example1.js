@@ -1,4 +1,4 @@
-// let, const and var
+// let, const and var - keywords to declare variables in JavaScript
 
 //1. let - Used to declare a variable that can change later.
 let age = 22;
@@ -15,20 +15,3 @@ console.log(pi); // This will throw an error because const cannot be reassigned
 var name = "John";
 name = "Doe"; // Reassigning a new value
 console.log(name); // Output: Doe
-
-// Data types - 
-
-// 1. String -Text, wrapped in quotes.
-let greeting = "Hello, World!";
-
-// 2. Number - Numeric values, can be integers or floats.  Integers and decimals.
-let myAge = 23 ;
-let myHeight = 5.9;
-
-// 3. Boolean - Represents true or false values.
-let isStudent = true ;
-console.log(isStudent); // Output: true
-let isGraduated = false;
-console.log(isGraduated); // Output: false
-
-
