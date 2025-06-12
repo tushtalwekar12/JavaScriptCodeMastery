@@ -20,17 +20,15 @@ This repository contains well-organized notes, exercises, and projects as I lear
 - Primitive Data Types: string, number, boolean, null, undefined
 - Reference Data Types: objects, arrays
 
----
-
-## 🧭 Upcoming Sections
-
-### 🔢 Section 3: Operators
+### ✅ Section 3: Operators
 - Arithmetic Operators (`+`, `-`, `*`, `/`, `%`)
 - Assignment Operators (`=`, `+=`, `-=`, etc.)
 - Comparison Operators (`==`, `===`, `!=`, `>`, `<`, etc.)
 - Logical Operators (`&&`, `||`, `!`)
 - Ternary Operator
 - Bitwise Operators
+
+## 🧭 Upcoming Sections 
 
 ### 🔁 Section 4: Conditional Statements
 - `if`, `else`, `else if`

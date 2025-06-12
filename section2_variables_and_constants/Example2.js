@@ -1,4 +1,4 @@
-// Data types - 
+// Primitive Data Types: string, number, boolean, null, undefined
 
 // 1. String -Text, wrapped in quotes.
 let greeting = "Hello, World!";
@@ -14,3 +14,9 @@ let isGraduated = false;
 console.log(isGraduated); // Output: false
 
 // 4.  Undefined - A variable that has been declared but not assigned a value.
+let myVariable;  // Declared but not assigned
+console.log(myVariable); // Output: undefined
+
+// 5. Null - Represents the intentional absence of any value.
+let myNullValue = null; // Explicitly set to null
+console.log(myNullValue); // Output: null
