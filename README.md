@@ -28,13 +28,12 @@ This repository contains well-organized notes, exercises, and projects as I lear
 - Ternary Operator
 - Bitwise Operators
 
-## 🧭 Upcoming Sections 
-
-### 🔁 Section 4: Conditional Statements
+### ✅ Section 4: Conditional Statements
 - `if`, `else`, `else if`
 - `switch` statement
 - Nested conditionals
 
+## 🧭 Upcoming Sections 
 ### 🔄 Section 5: Loops
 - `for` loop
 - `while` loop
