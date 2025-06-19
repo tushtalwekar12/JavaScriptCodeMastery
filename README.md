@@ -83,7 +83,7 @@ This repository contains well-organized notes, exercises, and projects as I lear
 - `let` & `const` vs `var`
 - Modules (import/export)
 
-### 🧵 Section 12: Strings and Numbers
+### ✅ Section 12: Strings and Numbers
 - String methods: `length`, `slice`, `replace`, `includes`, `split`
 - Number methods: `toFixed`, `parseInt`, `parseFloat`
 - Math object: `Math.random()`, `Math.floor()`, `Math.max()`
